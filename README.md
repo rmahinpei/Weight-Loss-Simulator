@@ -1,1 +1,1 @@
-# weight-loss-simulator
+# Weight Loss Simulator
