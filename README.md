@@ -15,7 +15,7 @@ The Python model uses Euler's approximation technique to predict an individual's
 - Subject's gender
 
 ## How to Use
-First, download WeightLoss.ipynb. Then, open the file and before running the code, adjust the case dependent constants to yours desired values.
+First, download WeightLoss.ipynb. Then, open the file and before running the code, adjust the case dependent constants to your desired values.
 ```python:
 # case dependent constants used in model
 I = 0.75*2677.8          # energy intake in kcal/day                  
